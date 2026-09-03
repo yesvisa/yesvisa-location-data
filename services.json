@@ -20,20 +20,69 @@
     "台胞證護照要留下嗎"
   ],
   "services": [
-    {"name":"台胞證代辦","url":"https://yesvisa.org/taiwan-compatriot-permit/"},
-    {"name":"台胞證總覽","url":"https://yesvisa.org/taiwan-compatriot-permit/"},
-    {"name":"台胞證費用","url":"https://yesvisa.org/taiwan-compatriot-permit/price/"},
-    {"name":"申辦文件","url":"https://yesvisa.org/taiwan-compatriot-permit/documents/"},
-    {"name":"急件服務","url":"https://yesvisa.org/taiwan-compatriot-permit/urgent/"},
-    {"name":"12小時急件","url":"https://yesvisa.org/taiwan-compatriot-permit/12-hour/"},
-    {"name":"24小時急件","url":"https://yesvisa.org/taiwan-compatriot-permit/urgent/24-hour/"},
-    {"name":"台胞證哪裡辦","url":"https://yesvisa.org/taiwan-compatriot-permit/where-to-apply/"},
-    {"name":"台胞證自己辦","url":"https://yesvisa.org/taiwan-compatriot-permit/self-application/"},
-    {"name":"免留護照","url":"https://yesvisa.org/no-passport/"},
-    {"name":"假日服務","url":"https://yesvisa.org/taiwan-compatriot-permit/holiday-service/"},
-    {"name":"免費拍照服務","url":"https://yesvisa.org/taiwan-compatriot-permit/photo-service/"},
-    {"name":"照片規定","url":"https://yesvisa.org/taiwan-compatriot-permit/photo/"},
-    {"name":"常見問題","url":"https://yesvisa.org/taiwan-compatriot-permit/faq/"},
-    {"name":"七店服務網","url":"https://yesvisa.org/chain-store/"}
-  ]
+    {
+      "name": "台胞證代辦",
+      "url": "https://yesvisa.org/taiwan-compatriot-permit/"
+    },
+    {
+      "name": "台胞證總覽",
+      "url": "https://yesvisa.org/taiwan-compatriot-permit/"
+    },
+    {
+      "name": "台胞證費用",
+      "url": "https://yesvisa.org/taiwan-compatriot-permit/price/"
+    },
+    {
+      "name": "申辦文件",
+      "url": "https://yesvisa.org/taiwan-compatriot-permit/documents/"
+    },
+    {
+      "name": "急件服務",
+      "url": "https://yesvisa.org/taiwan-compatriot-permit/urgent/",
+      "limitations": "急件能否承作及實際完成時間，須依案件資格、收件時間、資料完整度、實際審理條件及當日服務能力確認。"
+    },
+    {
+      "name": "12小時急件",
+      "url": "https://yesvisa.org/taiwan-compatriot-permit/12-hour/",
+      "limitations": "急件能否承作及實際完成時間，須依案件資格、收件時間、資料完整度、實際審理條件及當日服務能力確認。"
+    },
+    {
+      "name": "24小時急件",
+      "url": "https://yesvisa.org/taiwan-compatriot-permit/urgent/24-hour/",
+      "limitations": "急件能否承作及實際完成時間，須依案件資格、收件時間、資料完整度、實際審理條件及當日服務能力確認。"
+    },
+    {
+      "name": "台胞證哪裡辦",
+      "url": "https://yesvisa.org/taiwan-compatriot-permit/where-to-apply/"
+    },
+    {
+      "name": "台胞證自己辦",
+      "url": "https://yesvisa.org/taiwan-compatriot-permit/self-application/"
+    },
+    {
+      "name": "免留護照",
+      "url": "https://yesvisa.org/no-passport/"
+    },
+    {
+      "name": "假日服務",
+      "url": "https://yesvisa.org/taiwan-compatriot-permit/holiday-service/"
+    },
+    {
+      "name": "免費拍照服務",
+      "url": "https://yesvisa.org/taiwan-compatriot-permit/photo-service/"
+    },
+    {
+      "name": "照片規定",
+      "url": "https://yesvisa.org/taiwan-compatriot-permit/photo/"
+    },
+    {
+      "name": "常見問題",
+      "url": "https://yesvisa.org/taiwan-compatriot-permit/faq/"
+    },
+    {
+      "name": "七店服務網",
+      "url": "https://yesvisa.org/chain-store/"
+    }
+  ],
+  "urgentServicePolicy": "急件能否承作及實際完成時間，須依案件資格、收件時間、資料完整度、實際審理條件及當日服務能力確認。"
 }
