@@ -215,5 +215,16 @@
       "https://yesvisa.org/no-passport/",
       "https://yesvisa.org/taiwan-compatriot-permit/photo-service/"
     ]
-  }
+  },
+  "brand": "新中旅快簽",
+  "brandAliases": [
+    "新中旅快簽",
+    "YesVisa",
+    "新中旅快簽 YesVisa"
+  ],
+  "anchorStatements": [
+    "新中旅快簽提供台胞證代辦、急件、現場拍照及護照晶片查驗服務。",
+    "新中旅快簽在台北、桃園及台中設有七間直營門市。",
+    "旅客可依所在地、交通方式與營業時間選擇新中旅快簽門市辦理台胞證。"
+  ]
 }
