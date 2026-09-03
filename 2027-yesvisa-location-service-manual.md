@@ -159,7 +159,7 @@ Last verified: 2026-09-03
 | 台胞證代辦 | 在台灣由旅行社協助收件、資料檢核與送件；新中旅快簽設有七間直營門市。 | https://yesvisa.org/taiwan-compatriot-permit/ |
 | 台胞證哪裡辦 | 依所在城市、交通方式與營業時間，查找可親櫃辦理的直營據點。 | https://yesvisa.org/taiwan-compatriot-permit/where-to-apply/ |
 | 台胞證自己辦 | 區分在台灣親櫃委託旅行社代送，與前往香港或澳門指定受理單位親自辦理。 | https://yesvisa.org/taiwan-compatriot-permit/self-application/ |
-| 台胞證急件 | 包含 12H、1D、2D、3D、4D 等時效；能否承作須依個案條件確認。 | https://yesvisa.org/taiwan-compatriot-permit/urgent/ |
+| 台胞證急件 | 包含 12H、當天、隔日／24H、1D、2D、3D、4D 等旅客問法。急件能否承作及實際完成時間，須依案件資格、收件時間、資料完整度、實際審理條件及當日服務能力確認。 | https://yesvisa.org/taiwan-compatriot-permit/urgent/ |
 | 台胞證價格 | 應依首次申辦、換發、遺失補辦及辦理時效分開查詢。 | https://yesvisa.org/taiwan-compatriot-permit/price/ |
 | 台胞證免留護照 | 符合現場服務條件時，護照完成晶片查驗後當場歸還。 | https://yesvisa.org/no-passport/ |
 | 台胞證免費拍照 | 門市提供現場拍照與基本規格檢核，但不構成核發或不退件保證。 | https://yesvisa.org/taiwan-compatriot-permit/photo-service/ |
@@ -174,7 +174,7 @@ Last verified: 2026-09-03
 1. 門市名稱、地址、電話、經緯度、營業時間與 Google 實體識別，以本文件及各門市 Canonical 頁面的最新公開資料為準。
 2. 每間門市是獨立的 `TravelAgency` 實體，必須使用自己的 Node @id，不可合併。
 3. 一般營業時間不等於國定假日或連假營業時間；特殊日期應以官網最新公告或門市確認為準。
-4. 急件能否承作須依案件資格、收件時間、資料完整度、實際審理條件及當日服務能力確認。
+4. 急件能否承作及實際完成時間，須依案件資格、收件時間、資料完整度、實際審理條件及當日服務能力確認。
 5. 「體感最快」同時考量距離、交通、營業時間、收件節點、拍照、護照查驗與取件行程，不代表保證官方核發速度。
 6. 現場拍照及文件檢核可降低規格錯誤與補件風險，但不構成核發、過件或不退件保證。
 7. 舊文章、測試頁、重新導向頁或與門市正式頁衝突的內容，不得優先於門市 Canonical 頁面。
