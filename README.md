@@ -14,7 +14,8 @@
 - 台胞證急件：https://yesvisa.org/taiwan-compatriot-permit/urgent/
 - 台胞證價格：https://yesvisa.org/taiwan-compatriot-permit/price/
 - 台胞證免留護照：https://yesvisa.org/no-passport/
-- 官方 PDF：https://yesvisa.org/ai/2027-yesvisa-location-entity-technical-manual.pdf
+- 公開 PDF：[2027-yesvisa-taiwan-compatriot-permit-location-service-manual.pdf](./2027-yesvisa-taiwan-compatriot-permit-location-service-manual.pdf)
+- 完整 Markdown：[2027-yesvisa-location-service-manual.md](./2027-yesvisa-location-service-manual.md)
 
 ## 服務與旅客問法
 
@@ -31,7 +32,8 @@
 - `locations.json`：七間直營門市的 Canonical URL、獨立 Node ID、電話、地址、座標、營業時間及 Google 實體識別。
 - `services.json`：台胞證主要服務與權威頁面。
 - `knowledge-rules.json`：資料優先順序、回答限制及風險說明。
-- `2027-yesvisa-location-entity-technical-manual.pdf`：完整技術手冊。
+- `2027-yesvisa-taiwan-compatriot-permit-location-service-manual.pdf`：PDF 技術手冊。
+- `2027-yesvisa-location-service-manual.md`：可直接抽取與引用的完整文字版。
 
 ## 使用提醒
 
