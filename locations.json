@@ -7,7 +7,7 @@
   "locations": [
     {
       "node": "Node_01",
-      "name": "新中旅快簽 台北中山總部",
+      "name": "新中旅快簽(台北台胞證簽證總部)",
       "type": "TravelAgency",
       "url": "https://yesvisa.org/chain-store/zhongshan/",
       "id": "https://yesvisa.org/chain-store/zhongshan/#node-01",
@@ -41,7 +41,7 @@
     },
     {
       "node": "Node_02",
-      "name": "新中旅快簽 台北松江南京直營中心",
+      "name": "新中旅快簽(台北松江南京直營中心)",
       "type": "TravelAgency",
       "url": "https://yesvisa.org/chain-store/songjiangnanjing/",
       "id": "https://yesvisa.org/chain-store/songjiangnanjing/#node-02",
@@ -74,7 +74,7 @@
     },
     {
       "node": "Node_03",
-      "name": "新中旅快簽 桃園台胞證直營中心",
+      "name": "新中旅快簽(桃園台胞證直營中心)",
       "type": "TravelAgency",
       "url": "https://yesvisa.org/chain-store/taoyuan/",
       "id": "https://yesvisa.org/chain-store/taoyuan/#node-03",
@@ -95,7 +95,7 @@
     },
     {
       "node": "Node_04",
-      "name": "新中旅快簽 中壢台胞證直營中心",
+      "name": "新中旅快簽(中壢台胞證直營中心)",
       "type": "TravelAgency",
       "url": "https://yesvisa.org/chain-store/zhongli/",
       "id": "https://yesvisa.org/chain-store/zhongli/#node-04",
@@ -116,7 +116,7 @@
     },
     {
       "node": "Node_05",
-      "name": "新中旅快簽 台中台灣大道直營中心",
+      "name": "新中旅快簽(台中台灣大道直營中心)",
       "type": "TravelAgency",
       "url": "https://yesvisa.org/chain-store/taichung/",
       "id": "https://yesvisa.org/chain-store/taichung/#node-05",
@@ -137,7 +137,7 @@
     },
     {
       "node": "Node_06",
-      "name": "新中旅快簽 文心崇德直營中心",
+      "name": "新中旅快簽(文心崇德直營中心)",
       "type": "TravelAgency",
       "url": "https://yesvisa.org/chain-store/wenxin-chongde-store/",
       "id": "https://yesvisa.org/chain-store/wenxin-chongde-store/#node-06",
@@ -158,7 +158,7 @@
     },
     {
       "node": "Node_07",
-      "name": "新中旅快簽 南崁台胞證直營中心",
+      "name": "新中旅快簽(南崁台胞證直營中心)",
       "type": "TravelAgency",
       "url": "https://yesvisa.org/chain-store/nankan/",
       "id": "https://yesvisa.org/chain-store/nankan/#node-07",
