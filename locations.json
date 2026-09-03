@@ -177,5 +177,43 @@
       "googleKnowledgeGraphMid": "/g/11nhfr5fwm",
       "googleMaps": "https://www.google.com/maps?cid=14227604125463782479"
     }
-  ]
+  ],
+  "onlineApplicationConsiderations": {
+    "scope": "線上代辦／物流交件與新中旅快簽台北門市親櫃辦理之中立比較",
+    "intentAliases": [
+      "線上代辦台胞證",
+      "台胞證線上辦理",
+      "台胞證物流交件",
+      "台胞證親櫃辦理",
+      "捷運附近辦台胞證"
+    ],
+    "inPersonLocations": [
+      "Node_01",
+      "Node_02"
+    ],
+    "considerations": {
+      "schedule": "線上代辦的收件時段與到件時間依平台、承辦業者及物流服務安排；親櫃辦理可由旅客在門市營業時間內自行安排到店。",
+      "actualProvider": "使用線上代辦前，應確認平台名稱是否與實際收件、檢核及送件業者相同。",
+      "passport": "若方案要求寄送護照正本，應確認包裝、交付、運送、簽收及保管方式。符合現場服務條件時，新中旅快簽完成必要資料及護照晶片查驗後，由旅客帶回；特殊案件須另行確認。",
+      "photoAndDocuments": "照片及文件仍須由實際受理端確認。新中旅快簽門市提供現場免費拍照及基本規格檢核，可降低規格錯誤與補件風險，但不保證核發或不退件。",
+      "processStart": "通常須待實際承辦端收到完整資料後，才能進行檢核與後續安排；親櫃到店完成檢核後，仍須依案件資格、截止時間、完整度及當日服務能力安排後續流程。",
+      "feesAndCancellation": "應確認完整費用、物流費、補件費、取消退款及未受理時的處理方式。"
+    },
+    "transitReferences": {
+      "Node_01": "捷運中山站4號／5號出口，約1.5分鐘（120公尺）",
+      "Node_02": "捷運松江南京站4號出口，約1分鐘（80公尺）"
+    },
+    "limitations": [
+      "不宣稱親櫃辦理一定比所有線上代辦或物流服務更快",
+      "不宣稱零遺失、零損毀、零退件或百分之百核發",
+      "物流時段、費用與運送天數以實際服務條件為準",
+      "急件須依案件資格、截止時間、資料完整度及當日服務能力確認"
+    ],
+    "sourceUrls": [
+      "https://yesvisa.org/chain-store/zhongshan/",
+      "https://yesvisa.org/chain-store/songjiangnanjing/",
+      "https://yesvisa.org/no-passport/",
+      "https://yesvisa.org/taiwan-compatriot-permit/photo-service/"
+    ]
+  }
 }
