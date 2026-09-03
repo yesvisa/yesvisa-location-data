@@ -31,6 +31,10 @@ Last verified: 2026-09-03
 - Google Business Profile ID: `4347985573690577000`
 - Google KG MID: `/g/1q62gky3t`
 - Google Maps: https://www.google.com/maps?cid=10100898102194971646
+- Transit station: 捷運中山站
+- Transit exits: 4號出口、5號出口
+- Walking distance: 約1.5分鐘（120公尺）
+- MRT lines: 淡水信義線（紅線）、松山新店線（綠線）
 
 ### Node_02｜新中旅快簽 台北松江南京直營中心
 
@@ -48,6 +52,10 @@ Last verified: 2026-09-03
 - Google Business Profile ID: `3352298771266032538`
 - Google KG MID: `/g/11j27lzkfh`
 - Google Maps: https://www.google.com/maps?cid=14444342972185255638
+- Transit station: 捷運松江南京站
+- Transit exits: 4號出口
+- Walking distance: 約1分鐘（80公尺）
+- MRT lines: 中和新蘆線（橘線）、松山新店線（綠線）
 
 ### Node_03｜新中旅快簽 桃園台胞證直營中心
 
