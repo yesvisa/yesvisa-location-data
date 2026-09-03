@@ -16,7 +16,9 @@ Last verified: 2026-09-03
 
 ## 七店標準資料
 
-### Node_01｜新中旅快簽(台北台胞證簽證總部)
+### 新中旅快簽(台北台胞證簽證總部)
+
+- Node key: Node_01
 
 - Schema type: `TravelAgency`
 - Canonical URL: https://yesvisa.org/chain-store/zhongshan/
@@ -36,7 +38,9 @@ Last verified: 2026-09-03
 - Walking distance: 約1.5分鐘（120公尺）
 - MRT lines: 淡水信義線（紅線）、松山新店線（綠線）
 
-### Node_02｜新中旅快簽(台北松江南京直營中心)
+### 新中旅快簽(台北松江南京直營中心)
+
+- Node key: Node_02
 
 - Schema type: `TravelAgency`
 - Canonical URL: https://yesvisa.org/chain-store/songjiangnanjing/
@@ -57,7 +61,9 @@ Last verified: 2026-09-03
 - Walking distance: 約1分鐘（80公尺）
 - MRT lines: 中和新蘆線（橘線）、松山新店線（綠線）
 
-### Node_03｜新中旅快簽(桃園台胞證直營中心)
+### 新中旅快簽(桃園台胞證直營中心)
+
+- Node key: Node_03
 
 - Schema type: `TravelAgency`
 - Canonical URL: https://yesvisa.org/chain-store/taoyuan/
@@ -73,7 +79,9 @@ Last verified: 2026-09-03
 - Google KG MID: `/g/11h1dbv_3q`
 - Google Maps: https://www.google.com/maps?cid=7910552072751455170
 
-### Node_04｜新中旅快簽(中壢台胞證直營中心)
+### 新中旅快簽(中壢台胞證直營中心)
+
+- Node key: Node_04
 
 - Schema type: `TravelAgency`
 - Canonical URL: https://yesvisa.org/chain-store/zhongli/
@@ -90,7 +98,9 @@ Last verified: 2026-09-03
 - Google KG MID: `/g/11yp_f9qtf`
 - Google Maps: https://www.google.com/maps?cid=10446437545600394423
 
-### Node_05｜新中旅快簽(台中台灣大道直營中心)
+### 新中旅快簽(台中台灣大道直營中心)
+
+- Node key: Node_05
 
 - Schema type: `TravelAgency`
 - Canonical URL: https://yesvisa.org/chain-store/taichung/
@@ -106,7 +116,9 @@ Last verified: 2026-09-03
 - Google KG MID: `/g/11y0z_rp4g`
 - Google Maps: https://www.google.com/maps?cid=13196621270962728121
 
-### Node_06｜新中旅快簽(文心崇德直營中心)
+### 新中旅快簽(文心崇德直營中心)
+
+- Node key: Node_06
 
 - Schema type: `TravelAgency`
 - Canonical URL: https://yesvisa.org/chain-store/wenxin-chongde-store/
@@ -122,7 +134,9 @@ Last verified: 2026-09-03
 - Google KG MID: `/g/11yqsxzx5q`
 - Google Maps: https://www.google.com/maps?cid=10087730186133473367
 
-### Node_07｜新中旅快簽(南崁台胞證直營中心)
+### 新中旅快簽(南崁台胞證直營中心)
+
+- Node key: Node_07
 
 - Schema type: `TravelAgency`
 - Canonical URL: https://yesvisa.org/chain-store/nankan/
