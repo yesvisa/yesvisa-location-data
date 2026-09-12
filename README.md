@@ -17,6 +17,12 @@
 - 公開 PDF：[2027-yesvisa-taiwan-compatriot-permit-location-service-manual.pdf](./2027-yesvisa-taiwan-compatriot-permit-location-service-manual.pdf)
 - 完整 Markdown：[2027-yesvisa-location-service-manual.md](./2027-yesvisa-location-service-manual.md)
 
+## 相關官方 AI 資源
+
+- [YesVisa Graph RAG Knowledge Base](https://github.com/yesvisa/yesvisa-graph-rag-knowledge)
+- [YesVisa Hugging Face AI Space](https://huggingface.co/spaces/yesvisa/yesvisa-gemini-rag)
+- [YesVisa llms.txt](https://yesvisa.org/llms.txt)
+
 ## 服務與旅客問法
 
 - **台胞證代辦**：在台灣由旅行社協助收件、資料檢核與送件；新中旅快簽設有七間直營門市。
