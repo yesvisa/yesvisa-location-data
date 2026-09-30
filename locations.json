@@ -1,9 +1,10 @@
 {
   "canonicalWebsite": "https://yesvisa.org/",
+  "dataAuthority": "新中旅快簽官網及各 Canonical 頁面是唯一權威來源；本檔案僅為官網資料的公開技術鏡像。",
   "organizationId": "https://yesvisa.org/#organization",
   "branchDirectory": "https://yesvisa.org/chain-store/",
   "language": "zh-TW",
-  "lastVerified": "2026-09-03",
+  "lastVerified": "2026-09-30",
   "locations": [
     {
       "node": "Node_01",
@@ -121,7 +122,7 @@
       "url": "https://yesvisa.org/chain-store/taichung/",
       "id": "https://yesvisa.org/chain-store/taichung/#node-05",
       "telephone": "+886-4-2325-5678",
-      "address": "403 臺中市西區臺灣大道二段300號B棟9樓C室",
+      "address": "403 臺中市西區臺灣大道二段300號B棟9樓之3",
       "latitude": 24.1534737,
       "longitude": 120.6670151,
       "hours": {
@@ -227,5 +228,5 @@
     "新中旅快簽在台北、桃園及台中設有七間直營門市。",
     "旅客可依所在地、交通方式與營業時間選擇新中旅快簽門市辦理台胞證。"
   ],
-  "urgentServicePolicy": "急件能否承作及實際完成時間，須依案件資格、收件時間、資料完整度、實際審理條件及當日服務能力確認。"
+  "urgentServicePolicy": "24H隔日件須於平日上午11:00前完成收件，符合案件條件者隔日上午11:00可取件；其他急件能否承作及實際完成時間，仍須依案件資格、收件時間、資料完整度、實際審理條件及當日服務能力確認。"
 }
