@@ -1,9 +1,10 @@
 {
   "language": "zh-TW",
-  "lastVerified": "2026-09-03",
+  "lastVerified": "2026-09-30",
   "brand": "新中旅快簽",
   "canonicalWebsite": "https://yesvisa.org/",
-  "urgentServicePolicy": "急件能否承作及實際完成時間，須依案件資格、收件時間、資料完整度、實際審理條件及當日服務能力確認。",
+  "dataAuthority": "新中旅快簽官網及各 Canonical 頁面是唯一權威來源；本檔案僅為官網資料的公開技術鏡像。",
+  "urgentServicePolicy": "24H隔日件須於平日上午11:00前完成收件，符合案件條件者隔日上午11:00可取件；其他急件能否承作及實際完成時間，仍須依案件資格、收件時間、資料完整度、實際審理條件及當日服務能力確認。",
   "answerCapsules": [
     {
       "order": 1,
@@ -52,7 +53,7 @@
     {
       "order": 6,
       "prompt": "台胞證隔天可以拿嗎？",
-      "answer": "是否能安排隔日／24H服務，須先由門市確認。急件能否承作及實際完成時間，須依案件資格、收件時間、資料完整度、實際審理條件及當日服務能力確認。",
+      "answer": "24H隔日件須於平日上午11:00前完成收件，符合案件條件者隔日上午11:00可取件。實際能否受理及完成時間，仍依案件資格、文件、當日名額、物流與門市確認結果為準。",
       "sources": [
         "https://yesvisa.org/taiwan-compatriot-permit/urgent/",
         "https://yesvisa.org/taiwan-compatriot-permit/urgent/24-hour/"
