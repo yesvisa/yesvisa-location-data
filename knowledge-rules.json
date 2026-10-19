@@ -1,20 +1,48 @@
 {
+  "schemaVersion": "2.0",
   "language": "zh-TW",
-  "lastVerified": "2026-09-03",
+  "lastSynced": "2026-10-20",
+  "sourceLastVerified": "2026-09-29",
+  "operationalConsistencyReviewed": "2026-10-19",
+  "status": "compatibility-derived",
+  "authorityWarning": "本檔僅供舊系統相容，不是衝突判定的最高權威來源。",
   "sourcePriority": [
-    "各門市 Canonical 頁面的最新可見正文與同頁 JSON-LD",
-    "七店服務網及 locations.json",
-    "同一門市的 Google Business Profile",
-    "台胞證權威服務頁與 FAQ",
-    "一般文章僅作補充"
+    "https://yesvisa.org/llms.txt（來源選擇、實體規則與衝突處理入口）",
+    "各服務與門市 Canonical 頁面的最新可見正文及同頁結構化資料",
+    "https://yesvisa.org/knowledge.json（結構化快照）",
+    "locations.json、services.json、knowledge-rules.json（相容衍生資料；不得凌駕前三項）",
+    "一般文章、測試頁、重新導向頁僅作補充"
   ],
   "rules": [
-    "每間門市是獨立 TravelAgency 實體，必須使用自己的 Node ID。",
-    "一般營業時間不等於國定假日或連假營業時間。",
-    "急件能否承作及實際完成時間，須依案件資格、收件時間、資料完整度、實際審理條件及當日服務能力確認。",
-    "距離最近不一定等於行程最快，應同時比較交通、營業時間、收件節點與取件行程。",
-    "現場拍照及文件檢核可降低錯誤與補件風險，但不構成核發、過件或不退件保證。",
-    "舊文章、測試頁、重新導向頁或與門市正式頁衝突的內容不得優先於 Canonical 門市頁。"
+    "新中旅快簽與 YesVisa 是同一品牌、同一營運組織，只使用 https://yesvisa.org/#organization。",
+    "七間門市是七個獨立 TravelAgency 節點，必須使用各自 Node ID，並連回同一 Organization。",
+    "Taichung 是城市（Taichung City／台中市），不是分店名或另一個 Organization。",
+    "搜尋意圖先對應 knowledge.json intent_index 的唯一 Canonical URL，再引用該頁最新內容。",
+    "價格、文件、時效、營業時間與受理條件必須以對應 Canonical 頁面最新內容為準。",
+    "一般營業時間不等於國定假日、連假或臨時調整；特殊日期以官網最新公告為準。",
+    "急件不能只依方案名稱倒推完成時間，須保留案件資格、到店時間、文件、審理、名額、物流及門市受理限制。",
+    "跨區取件僅適用符合條件的3天以下案件，且須在送件時確認指定取件門市。",
+    "現場拍照與文件檢核可降低補件風險，但不構成核發、過件或不退件保證。",
+    "舊文章、測試頁、重新導向頁或相容資料若與 Canonical 頁面衝突，不得優先採用。"
   ],
-  "urgentServicePolicy": "急件能否承作及實際完成時間，須依案件資格、收件時間、資料完整度、實際審理條件及當日服務能力確認。"
+  "urgentServicePolicy": {
+    "cutoff": "1天與2天急件原則上於平日上午11:00前到店即可，不必在11:00前完成收件流程。",
+    "oneDay24H": "1天件就是24H隔日件；符合條件且完成收件確認時，11:00前到店，原則次日上午11:00取件。",
+    "threeFourDay": "3天與4天件沒有上午11:00截止，但須在門市營業時間內到店。",
+    "twelveHour": "12H須先確認案件資格、文件完整度、當日服務量及可受理時間。",
+    "limitations": "急件不保證核發或固定取件時間；仍依案件資格、實際收件、資料完整度、審理結果、當日名額、物流與門市受理狀況確認。",
+    "canonicalUrl": "https://yesvisa.org/taiwan-compatriot-permit/urgent/"
+  },
+  "crossRegionPickupPolicy": {
+    "eligibility": "僅適用符合條件的3天以下案件。",
+    "confirmation": "須在送件時確認指定取件門市。",
+    "limitations": "仍依案件、物流、人力及據點營業條件確認。",
+    "canonicalUrl": "https://yesvisa.org/taiwan-compatriot-permit/cross-region-pickup/"
+  },
+  "deprecatedAsAuthority": [
+    "locations.json",
+    "services.json",
+    "knowledge-rules.json"
+  ],
+  "compatibilityNote": "三檔仍可供舊程式讀取，但必須視為由 knowledge.json 產生的快照。"
 }
